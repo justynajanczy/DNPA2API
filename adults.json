@@ -1,0 +1,107 @@
+[
+  {
+    "JobTitle": {
+      "JobTitle": "Front End Web Developer",
+      "Salary": 66408
+    },
+    "Id": 1,
+    "FirstName": "Lyla",
+    "LastName": "Humphrey",
+    "HairColor": "Black",
+    "EyeColor": "Brown",
+    "Age": 36,
+    "Weight": 64.8,
+    "Height": 147,
+    "Sex": "F"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Business Development Manager",
+      "Salary": 71456
+    },
+    "Id": 2,
+    "FirstName": "Samara",
+    "LastName": "Humphrey",
+    "HairColor": "Black",
+    "EyeColor": "Brown",
+    "Age": 34,
+    "Weight": 37,
+    "Height": 145,
+    "Sex": "F"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Skin Care Specialist",
+      "Salary": 20545
+    },
+    "Id": 3,
+    "FirstName": "Chaya",
+    "LastName": "Mcclure",
+    "HairColor": "Black",
+    "EyeColor": "Brown",
+    "Age": 59,
+    "Weight": 32.4,
+    "Height": 167,
+    "Sex": "F"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Vice Principal",
+      "Salary": 72901
+    },
+    "Id": 4,
+    "FirstName": "Ophelia",
+    "LastName": "Nathan",
+    "HairColor": "Black",
+    "EyeColor": "Brown",
+    "Age": 50,
+    "Weight": 106,
+    "Height": 172,
+    "Sex": "F"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Teacher",
+      "Salary": 91588
+    },
+    "Id": 5,
+    "FirstName": "Soham",
+    "LastName": "Fitzgerald",
+    "HairColor": "Green",
+    "EyeColor": "Grey",
+    "Age": 48,
+    "Weight": 131.6,
+    "Height": 177,
+    "Sex": "M"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Web Administrator",
+      "Salary": 44759
+    },
+    "Id": 12,
+    "FirstName": "Zavier",
+    "LastName": "Huffman",
+    "HairColor": "Black",
+    "EyeColor": "Brown",
+    "Age": 59,
+    "Weight": 54.4,
+    "Height": 166,
+    "Sex": "M"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Science Teacher",
+      "Salary": 55346
+    },
+    "Id": 13,
+    "FirstName": "Arley",
+    "LastName": "Vaughn",
+    "HairColor": "Black",
+    "EyeColor": "Brown",
+    "Age": 33,
+    "Weight": 55.4,
+    "Height": 100,
+    "Sex": "M"
+  }
+]
